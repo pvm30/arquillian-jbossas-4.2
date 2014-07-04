@@ -1,7 +1,11 @@
 arquillian-jbossas-4.2
 ======================
 
-Proof of concept on how to use arquillian with JBoss 4.2 and Java 5 
+Proof of concept on how to use arquillian with JBoss 4.2 and Java 5. 
+
+This is my own solution for a question I posted to StackOverflow without getting response
+
+http://stackoverflow.com/questions/15468305/arquillian-java-ee-5-and-jboss-4-2
 
 1) Configure JBoss Maven repositories. I added this profile called 'jboss-public-repository' to my settings.xml
 
