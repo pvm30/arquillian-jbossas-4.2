@@ -54,7 +54,7 @@ http://stackoverflow.com/questions/15468305/arquillian-java-ee-5-and-jboss-4-2
  	
 3) mvn test
 
-This will execute two test: a very dull and simple StatelessHelloWorldTest and a PersistenceServiceTest 
+This will execute two tests: a very dull and simple JBoss4ArquillianTest and a PersistenceServiceTest 
 using an injected JPA @PersistenceContext
 
 Regards     
